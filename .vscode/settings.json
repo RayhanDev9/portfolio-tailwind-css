@@ -1,5 +1,4 @@
 {
-    
   "editor.quickSuggestions": {
     "strings": "on"
   },
@@ -10,6 +9,6 @@
   },
   "files.associations": {
     "*.css": "tailwindcss"
-  }
-
+  },
+  "liveServer.settings.port": 5501
 }
